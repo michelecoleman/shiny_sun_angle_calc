@@ -1,0 +1,23 @@
+	    name	country	lat	long	timezone	label
+1	Buenos Aires	Argentina	-34.61	-58.37	America/Argentina/Buenos_Aires	Buenos Aires, Argentina — 34.61°S
+2	Sydney	Australia	-33.87	151.21	Australia/Sydney	Sydney, Australia — 33.87°S
+3	Johannesburg	South Africa	-26.19	28.04	Africa/Johannesburg	Johannesburg, South Africa — 26.19°S
+4	Rio de Janeiro	Brazil	-22.91	-43.2	America/Sao_Paulo	Rio de Janeiro, Brazil — 22.91°S
+5	Harare	Zimbabwe	-17.82	31.05	Africa/Harare	Harare, Zimbabwe — 17.82°S
+6	Jakarta	Indonesia	-6.18	106.83	Asia/Jakarta	Jakarta, Indonesia — 6.18°S
+7	Nairobi	Kenya	-1.29	36.82	Africa/Nairobi	Nairobi, Kenya — 1.29°S
+8	Singapore	Singapore	1.3	103.85	Asia/Singapore	Singapore, Singapore —1.3°S
+9	Bogota	Colombia	4.63	-74.09	America/Bogota	Bogota, Colombia — 4.63°N
+10	Bangalore	India	12.97	77.56	Asia/Kolkata	Bangalore, India — 12.97°N
+11	Mexico City	Mexico	19.43	-99.14	America/Mexico_City	Mexico City, Mexico — 19.43°N
+12	Havanna	Cuba	23.13	-82.39	America/Havana	Havanna, Cuba — 23.13°N
+13	Dubai	United Arab Emirates	25.27	55.33	Asia/Dubai	Dubai, United Arab Emirates — 25.27°N
+14	Cairo	Egypt	30.06	31.25	Africa/Cairo	Cairo, Egypt — 30.06°N
+15	Tokyo	Japan	35.67	139.77	Asia/Tokyo	Tokyo, Japan — 35.67°N
+16	San Jose	USA	37.34	-121.89	America/Los_Angeles	San Jose, USA — 37.34°N
+17	Beijing	China	39.93	116.4	Asia/Shanghai	Beijing, China — 39.93°N
+18	Madrid	Spain	40.42	-3.71	Europe/Madrid	Madrid, Spain — 40.42°N
+19	Toronto	Canada	43.65	-79.38	America/Toronto	Toronto, Canada — 43.65°N
+20	Paris	France	48.86	2.34	Europe/Paris	Paris, France — 48.86°N
+21	London	UK	51.52	-0.1	Europe/London	London, UK — 51.52°N
+22	Stockholm	Sweden	59.33	18.07	Europe/Stockholm	Stockholm, Sweden — 59.33°N
